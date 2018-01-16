@@ -63,12 +63,12 @@ Alihkan fail data ke dalam tab semasa</translation>
         <translation>alamat-alamat penerimaan</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ini adalah alamat Litecoin anda untuk pembayaran. Periksa jumlah dan alamat penerima sebelum membuat penghantaran koin sentiasa.</translation>
+        <source>These are your Teddycoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ini adalah alamat Teddycoin anda untuk pembayaran. Periksa jumlah dan alamat penerima sebelum membuat penghantaran koin sentiasa.</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ini adalah alamat Litecoin anda untuk menerima pembayaraan.  Anda disyorkan untuk menguna alamat menerima untuk setiap transaksi.</translation>
+        <source>These are your Teddycoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ini adalah alamat Teddycoin anda untuk menerima pembayaraan.  Anda disyorkan untuk menguna alamat menerima untuk setiap transaksi.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -181,8 +181,8 @@ Alihkan fail data ke dalam tab semasa</translation>
         <translation>Dompet dienkripsi</translation>
     </message>
     <message>
-        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>%1 akan tutup untuk menyelesaikan proses enkripsi. Ingat bahawa enkripsi tidak boleh melidungi sepenuhnya litecoins anda daripada dicuri oleh malware yang menjangkiti komputer anda.</translation>
+        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your teddycoins from being stolen by malware infecting your computer.</source>
+        <translation>%1 akan tutup untuk menyelesaikan proses enkripsi. Ingat bahawa enkripsi tidak boleh melidungi sepenuhnya teddycoins anda daripada dicuri oleh malware yang menjangkiti komputer anda.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -339,8 +339,8 @@ Alihkan fail data ke dalam tab semasa</translation>
         <translation>Reindexi blok pada cakera...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Menghantar koin kepada alamat Litecoin</translation>
+        <source>Send coins to a Teddycoin address</source>
+        <translation>Menghantar koin kepada alamat Teddycoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -363,8 +363,8 @@ Alihkan fail data ke dalam tab semasa</translation>
         <translation>sahkan mesej</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>Teddycoin</source>
+        <translation>Teddycoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -391,12 +391,12 @@ Alihkan fail data ke dalam tab semasa</translation>
         <translation>sulitkan kata laluan milik peribadi anda </translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Log mesej dengan alamat Litecoin anda untuk membuktikan anda memilikinya</translation>
+        <source>Sign messages with your Teddycoin addresses to prove you own them</source>
+        <translation>Log mesej dengan alamat Teddycoin anda untuk membuktikan anda memilikinya</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Sahkan mesej untuk memastikan mereka telah ditandatangani dengan alamat Litecoin yang ditentukan</translation>
+        <source>Verify messages to ensure they were signed with specified Teddycoin addresses</source>
+        <translation>Sahkan mesej untuk memastikan mereka telah ditandatangani dengan alamat Teddycoin yang ditentukan</translation>
     </message>
     <message>
         <source>&amp;File</source>

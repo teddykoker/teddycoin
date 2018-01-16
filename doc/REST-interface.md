@@ -66,7 +66,7 @@ $ curl localhost:19332/rest/getutxos/checkmempool/b2cdfd7b89def827ff8af7cd9bff76
       {
          "txvers" : 1
          "height" : 2147483647,
-         "value" : 8.8687,		 
+         "value" : 8.8687,
          "scriptPubKey" : {
             "asm" : "OP_DUP OP_HASH160 1c7cebb529b86a04c683dfa87be49de35bcf589e OP_EQUALVERIFY OP_CHECKSIG",
             "hex" : "76a9141c7cebb529b86a04c683dfa87be49de35bcf589e88ac",
@@ -99,4 +99,4 @@ Only supports JSON as output format.
 
 Risks
 -------------
-Running a web browser on the same node with a REST enabled litecoind can be a risk. Accessing prepared XSS websites could read out tx/block data of your node by placing links like `<script src="http://127.0.0.1:9332/rest/tx/1234567890.json">` which might break the nodes privacy.
+Running a web browser on the same node with a REST enabled teddycoind can be a risk. Accessing prepared XSS websites could read out tx/block data of your node by placing links like `<script src="http://127.0.0.1:9332/rest/tx/1234567890.json">` which might break the nodes privacy.
